@@ -87,5 +87,7 @@ El archivo `historial_operaciones.txt` registra cada operación con su timestamp
 ---
 
 ## Autor
-
-**jchaile2014**
+**Jorge Ariel Chaile**
+📧 jchaile2014@gmail.com
+💼 [LinkedIn](https://linkedin.com/in/jorge-ariel-chaile-072294261)
+💻 [GitHub](https://github.com/jchaile2014)
